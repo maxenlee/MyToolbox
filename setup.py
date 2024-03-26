@@ -6,7 +6,7 @@ setup(
   author = 'Jacob Raffety',
   author_email = 'jacobraffety@gmail.com',
   packages = find_packages(),
-  url = 'https://github.com/JacobRaffety/Toolbox-'
+  url = 'https://github.com/JacobRaffety/Toolbox-',
   license = 'LICENSE.txt',
   description = 'This is my data science toolbox for useful code.',
   long_description = open('README.md').read(),
@@ -14,4 +14,3 @@ setup(
     #list of project dependencies here 
   ],
 )
-
