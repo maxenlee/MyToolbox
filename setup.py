@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages 
 
 setup(
-    name='Toolbox-', 
+    name='RaffetyToolbox', 
     version='0.1.0',
     author='Jacob Raffety',
     author_email='jacobraffety@gmail.com',
     packages=find_packages(),
-    url='https://github.com/JacobRaffety/Toolbox-',
+    url='https://github.com/JacobRaffety/RaffetyToolbox',
     license='LICENSE.txt',  # Make sure to specify the correct license file name
     description='This is my data science toolbox for useful code.',
     long_description=open('README.md').read(),
