@@ -11,6 +11,6 @@ setup(
     description='This is my data science toolbox for useful code.',
     long_description=open('README.md').read(),
     install_requires=[
-        # list of project dependencies here 
+        'numpy >= 1.11.1'
     ],
 )
